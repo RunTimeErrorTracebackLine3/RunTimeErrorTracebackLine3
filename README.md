@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on literally nothing
 - 📫 How to reach me you cant
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He ∨ Him
 - ⚡ Fun fact: I suck at programming
 
 <!---
